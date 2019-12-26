@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 NEW LINK 
 
-![linkme](https://github.com/bkreuch/test1/TESTME.md)
+[test](./TESTME.md)
 
 ### Markdown
 
